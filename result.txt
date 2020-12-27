@@ -1,0 +1,5 @@
+i am a catd!
+= = = Metadata = = =
+9 characters, 1 words, 1 spelling issues(s) found
+= = = Findings = = =
+Line #1, {catd} - Possible suggestions are {cat, cats}
